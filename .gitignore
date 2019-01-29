@@ -41,3 +41,10 @@ wave.ii
 reference.xml
 html/
 
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
+bin

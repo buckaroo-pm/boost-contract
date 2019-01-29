@@ -1,0 +1,17 @@
+targets = [ "//:contract" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-any"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-function"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-thread"
+version = "branch=master"
