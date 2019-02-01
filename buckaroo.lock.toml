@@ -206,7 +206,7 @@ revision = "e5d869f860393e8744ea34c70456d5d6dde1c308"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
-revision = "2146ff039c062639fa99fbd5e1b8b441adb5d5a8"
+revision = "5fcaae5126a91df33721a25f9236c75ba9520483"
 
 [lock."github.com/buckaroo-pm/boost-typeof"]
 versions = [ "branch=master" ]
